@@ -51,3 +51,5 @@ Logbog til informatik :)
 
 - Vi så "Snowden", en film der handler om Edward Snowden og overvågning
 
+- Vi læste om [sikkerhed på nettet](https://informatik.systime.dk/?id=528) og snakkede om det på klassen
+
