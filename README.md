@@ -38,6 +38,10 @@ Logbog til informatik :)
 - Til denne brugerundersøgelse brugte vi 
 [Gestalt lovene](http://informatik-gym.dk/glossary/gestaltlove/)
 
+Gestalt lovene er en række love opstilliet til interraktiondesign. 
+Disse love beskriver hvordan at vi opfatter elementer i et design.
+Lovene er altså med til at gøre det nemmere for brugeren at forstå og bruge it-systemerne.
+
 - Til vores kontroller havde vi valgt at gøre det modsatte af gestalt lovene
 - f.eks. til punkt 1(Nærhed) valgte at sige at vi ville sætte vores joystick og knap så langt fra hinanden på et stort stykke træ
 
@@ -59,4 +63,7 @@ Det vi manglede at lave til vores kontroller var:
 - Vi så "Snowden", en film der handler om Edward Snowden og overvågning
 
 - Vi læste om [sikkerhed på nettet](https://informatik.systime.dk/?id=528) og snakkede om det på klassen
+
+Bla. snakkede vi om hashing hvorpå at dit password bliver hashet så at man ikke kan knække password så nemt.
+Der er også programmer som lastpass, som laver og gemmer passwords så at de er MEGET sværere at knække og på den måde er man mere sikker.
 
