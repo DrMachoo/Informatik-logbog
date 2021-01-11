@@ -33,6 +33,6 @@ Logbog til informatik :)
 ![](Images/Arduino.png)
 
 
-
+- Nu skrev vi kode i python(pycharm), som kunne tage imod et serial print fra c++(arduino) og give os et output i python 
 
 ## Privathed, sikkerhed og passwords
