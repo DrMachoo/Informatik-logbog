@@ -16,7 +16,7 @@ Logbog til informatik :)
 
 ### Analyse af drone
 
-![](89A0D06F-A4E3-4679-95AF-C02072A1B22E.jpeg)
+![](Images/89A0D06F-A4E3-4679-95AF-C02072A1B22E.jpeg)
 
 
 
