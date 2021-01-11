@@ -12,7 +12,7 @@ Logbog til informatik :)
 
 
 
-## Drone controller
+## Tello drone
 
 ### Analyse af drone
 
@@ -21,7 +21,8 @@ Logbog til informatik :)
 
 ![](Images/89A0D06F-A4E3-4679-95AF-C02072A1B22E.jpeg)
 
+### Drone controller
 
-
+- Startede med at opstille brainstorm, flowchart og blokdiagram
 
 ## Privathed, sikkerhed og passwords
