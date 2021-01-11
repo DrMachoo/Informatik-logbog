@@ -50,9 +50,9 @@ Logbog til informatik :)
 Vi nåede dog ikke at blive færdig med emnet og vores kontroller pga. corona, da vi skal blive hjemme og at det ikke er muligt at arbejde med den digitalt.
 Det vi manglede at lave til vores kontroller var:
 
-  * Finpuds kode, så at dronen var mere stabil
-  * Selve kontrolleren, atlså det stykke træ hvor at vi ville sætte vores joystick og knapper på
-  * Brugerundersøgelse
+  1. Finpuds kode, så at dronen var mere stabil
+  2. Selve kontrolleren, atlså det stykke træ hvor at vi ville sætte vores joystick og knapper på
+  3. Brugerundersøgelse
 
 ## Privathed, sikkerhed og passwords
 
