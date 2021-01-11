@@ -1,5 +1,5 @@
 # Informatik-logbog
-Logbog til informatik :)
+Logbog til informatik af David Henning Bach
 
 
 ## Makerspace - 3d print
