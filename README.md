@@ -14,6 +14,9 @@ Logbog til informatik :)
 
 ## Drone controller
 
+### Analyse af drone
+
+- 
 
 
 
