@@ -8,7 +8,7 @@ Logbog til informatik :)
 
 - I makerspace kunne vi så downloade vores figurer til et minisd kort hvorefter at vi sat den til at printe.
 
-
+![](Images/3dpring.png)
 
 
 
