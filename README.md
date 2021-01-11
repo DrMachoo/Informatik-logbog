@@ -14,14 +14,14 @@ Logbog til informatik :)
 
 ## Tello drone
 
-### Analyse af drone
+##### Analyse af drone
 
 - Vi skulle lave en analyse af tello dronen
 - Blokdiagrammer, flowcharts og i en 3-lags model med præsentationslaget, logiklaget og datalaget
 
 ![3lagsmodel](Images/89A0D06F-A4E3-4679-95AF-C02072A1B22E.jpeg)
 
-### Drone kontroller
+##### Drone kontroller
 
 - Startede med at opstille brainstorm, flowchart og blokdiagram
 - Vi satte en jobliste op og begyndte at skrive koden
@@ -46,6 +46,13 @@ Logbog til informatik :)
 - Efter at vi så connectede til en tello drone via. wifi, kunne vi så give den kommandoer
 
 ![Python](Images/Kode.png)
+
+Vi nåede dog ikke at blive færdig med emnet og vores kontroller pga. corona, da vi skal blive hjemme og at det ikke er muligt at arbejde med den digitalt.
+Det vi manglede at lave til vores kontroller var:
+
+  * Finpuds kode, så at dronen var mere stabil
+  * Selve kontrolleren, atlså det stykke træ hvor at vi ville sætte vores joystick og knapper på
+  * Brugerundersøgelse
 
 ## Privathed, sikkerhed og passwords
 
