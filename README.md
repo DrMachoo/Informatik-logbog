@@ -24,5 +24,15 @@ Logbog til informatik :)
 ### Drone controller
 
 - Startede med at opstille brainstorm, flowchart og blokdiagram
+- Vi satte en jobliste op og begyndte at skrive koden
+- Vi satte en arduino med et joystick op
+- Efter satte vi et breadboard op med en knap
+- Koden blev skrevet i c++ i Arduino IDE'en, denne kode ville tage imod inputs fra knappen og joysticket og give os et input
+- Dette input ville vi så senere kunne bruge til at styre dronen
+
+![](Images/Arduino.png)
+
+
+
 
 ## Privathed, sikkerhed og passwords
