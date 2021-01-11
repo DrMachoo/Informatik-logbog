@@ -8,7 +8,7 @@ Logbog til informatik :)
 
 - I makerspace kunne vi så downloade vores figurer til et minisd kort hvorefter at vi sat den til at printe.
 
-![](Images/3dprint.png)
+![3dPrint](Images/3dprint.png)
 
 
 
@@ -19,7 +19,7 @@ Logbog til informatik :)
 - Vi skulle lave en analyse af tello dronen
 - Blokdiagrammer, flowcharts og i en 3-lags model med præsentationslaget, logiklaget og datalaget
 
-![](Images/89A0D06F-A4E3-4679-95AF-C02072A1B22E.jpeg)
+![3lagsmodel](Images/89A0D06F-A4E3-4679-95AF-C02072A1B22E.jpeg)
 
 ### Drone kontroller
 
@@ -30,7 +30,7 @@ Logbog til informatik :)
 - Koden blev skrevet i c++ i Arduino IDE'en, denne kode ville tage imod inputs fra knappen og joysticket og give os et input
 - Dette input ville vi så senere kunne bruge til at styre dronen
 
-![](Images/Arduino.png)
+![Arduino](Images/Arduino.png)
 
 
 - Nu skrev vi kode i python(pycharm), som kunne tage imod et serial print fra c++(arduino) og give os et output i python 
@@ -41,5 +41,10 @@ Logbog til informatik :)
 - Til vores kontroller havde vi valgt at gøre det modsatte af gestalt lovene
 - f.eks. til punkt 1(Nærhed) valgte at sige at vi ville sætte vores joystick og knap så langt fra hinanden på et stort stykke træ
 
+
+- Vi skrev python koden færdig, så den tog vores output fra vores joystick og ændrede intervallet
+- Efter at vi så connectede til en tello drone via. wifi, kunne vi så give den kommandoer
+
+![Python](Images/Kode.png)
 
 ## Privathed, sikkerhed og passwords
