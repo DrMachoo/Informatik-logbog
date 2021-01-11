@@ -16,6 +16,9 @@ Logbog til informatik :)
 
 ### Analyse af drone
 
+- Vi skulle lave en analyse af tello dronen
+- Blokdiagrammer, flowcharts og i en 3-lags model med præsentationslaget, logiklaget og datalaget
+
 ![](Images/89A0D06F-A4E3-4679-95AF-C02072A1B22E.jpeg)
 
 
