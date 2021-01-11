@@ -48,3 +48,6 @@ Logbog til informatik :)
 ![Python](Images/Kode.png)
 
 ## Privathed, sikkerhed og passwords
+
+- Vi så "Snowden", en film der handler om Edward Snowden og overvågning
+
