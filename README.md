@@ -4,6 +4,7 @@ Logbog til informatik :)
 
 ## Makerspace - 3d print
 
+- Vi skulle downloade fusion, og lave 3 simple figurer.
 
 
 
