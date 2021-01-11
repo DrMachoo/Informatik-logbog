@@ -34,5 +34,9 @@ Logbog til informatik :)
 
 
 - Nu skrev vi kode i python(pycharm), som kunne tage imod et serial print fra c++(arduino) og give os et output i python 
+- Vi satte en brugerundersøgelse op for vores controller
+- Til denne brugerundersøgelse brugte vi genstalt lovene
+[Genstalt lovene](http://informatik-gym.dk/glossary/gestaltlove/)
+
 
 ## Privathed, sikkerhed og passwords
