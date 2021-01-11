@@ -21,7 +21,7 @@ Logbog til informatik :)
 
 ![](Images/89A0D06F-A4E3-4679-95AF-C02072A1B22E.jpeg)
 
-### Drone controller
+### Drone kontroller
 
 - Startede med at opstille brainstorm, flowchart og blokdiagram
 - Vi satte en jobliste op og begyndte at skrive koden
@@ -35,8 +35,11 @@ Logbog til informatik :)
 
 - Nu skrev vi kode i python(pycharm), som kunne tage imod et serial print fra c++(arduino) og give os et output i python 
 - Vi satte en brugerundersøgelse op for vores controller
-- Til denne brugerundersøgelse brugte vi genstalt lovene
-[Genstalt lovene](http://informatik-gym.dk/glossary/gestaltlove/)
+- Til denne brugerundersøgelse brugte vi 
+[Gestalt lovene](http://informatik-gym.dk/glossary/gestaltlove/)
+
+- Til vores kontroller havde vi valgt at gøre det modsatte af gestalt lovene
+- f.eks. til punkt 1(Nærhed) valgte at sige at vi ville sætte vores joystick og knap så langt fra hinanden på et stort stykke træ
 
 
 ## Privathed, sikkerhed og passwords
