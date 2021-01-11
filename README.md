@@ -6,7 +6,9 @@ Logbog til informatik :)
 
 - Vi skulle downloade fusion, og lave 3 simple figurer.
 
-- I makerspace kunne vi så downloade vores figurer til et minisd kort hvorefter at vi sat den til at printe.
+- Ved at bruge lasercut kan vi cutte vores figurer til x antal lag.
+- I makerspace kunne vi så downloade vores figurer til et minisd kort hvorefter at vi sat den til at printe i 3d printeren.
+
 
 ![3dPrint](Images/3dprint.png)
 
