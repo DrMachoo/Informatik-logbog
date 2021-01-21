@@ -70,13 +70,12 @@ Bla. snakkede vi om hashing hvorpå at dit password bliver hashet så at man ikk
 Der er også programmer som lastpass, som laver og gemmer passwords så at de er MEGET sværere at knække og på den måde er man mere sikker.
 - Filsikkerhed
 
-|   | Almindelige     | Følsomme          |
-|---|-----------------|-------------------|
-|   | Navn            | Økonomi           |
-|   | Adresse         | Race              |
-|   | Fødselsdagsdato | Etnisk oprindelse |
-|   | Arbejdsområde  | Religion          |
-|   |                 | Gæld              |
-|   |                 | Biometriske data  |
-|   |                 | Seksuelle forhold |
+| Almindelige     | Følsomme          |
+|-----------------|-------------------|
+| Navn            | Biometriske data  |
+| Adresse         | Race              |
+| Fødselsdagsdato | Etnisk oprindelse |
+| Arbejdsforhold  | Religion          |
+| Gæld            | Seksuelle forhold |
+| Økonomi         |                   |
 
