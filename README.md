@@ -75,7 +75,7 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 |   | Navn            | Økonomi           |
 |   | Adresse         | Race              |
 |   | Fødselsdagsdato | Etnisk oprindelse |
-|   | Arbejdsforhold  | Religion          |
+|   | Arbejdsområde  | Religion          |
 |   |                 | Gæld              |
 |   |                 | Biometriske data  |
 |   |                 | Seksuelle forhold |
