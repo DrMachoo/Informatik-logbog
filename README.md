@@ -68,4 +68,15 @@ Det vi manglede at lave til vores kontroller var:
 
 Bla. snakkede vi om hashing hvorpå at dit password bliver hashet så at man ikke kan knække password så nemt.
 Der er også programmer som lastpass, som laver og gemmer passwords så at de er MEGET sværere at knække og på den måde er man mere sikker.
+- Filsikkerhed
+
+|   | Almindelige     | Følsomme          |
+|---|-----------------|-------------------|
+|   | Navn            | Økonomi           |
+|   | Adresse         | Race              |
+|   | Fødselsdagsdato | Etnisk oprindelse |
+|   | Arbejdsforhold  | Religion          |
+|   |                 | Gæld              |
+|   |                 | Biometriske data  |
+|   |                 | Seksuelle forhold |
 
