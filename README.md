@@ -79,3 +79,4 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 | Gæld            | Seksuelle forhold |
 | Økonomi         |                   |
 
+- persona og minervamodel til projekt formidling i programmering
