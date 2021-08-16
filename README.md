@@ -82,6 +82,12 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 - persona og minervamodel til projekt formidling i programmering
 
 
+## Reklamespil
+
+- Persona og målgrupper til reklame i spil og på hjemmeside
+- Data om login ville kunne blive gemt og hashet og senere brugt
+
+
 ## WSL 
 
 ![image](https://user-images.githubusercontent.com/60426203/129526924-6d22b328-d401-4006-a29a-121faf939450.png)
