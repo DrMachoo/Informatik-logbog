@@ -96,4 +96,5 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 - https og php for at lave en hjemmesiden med serveren
 - Mariadb for database
 - https://phoenixnap.com/kb/how-to-create-mariadb-user-grant-privileges
-- 
+- Php for at ændre html koden
+![image](https://github.com/DrMachoo/Informatik-logbog/blob/main/Images/Php%20fra%20serveren.png)
