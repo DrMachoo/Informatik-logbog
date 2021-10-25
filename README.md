@@ -94,3 +94,6 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 - Mad hacker vibes
 - Det virker ikke...
 - https og php for at lave en hjemmesiden med serveren
+- Mariadb for database
+- https://phoenixnap.com/kb/how-to-create-mariadb-user-grant-privileges
+- 
