@@ -99,7 +99,8 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 - Php for at ændre html koden
 ![image](https://github.com/DrMachoo/Informatik-logbog/blob/main/Images/Php%20fra%20serveren.png)
 
+## Robot og microbit
 
 -microbit og maqueen robot
 -epic kode der er dumt
-![image](Skærmbillede 2021-11-04 134029.png)
+![image]()
