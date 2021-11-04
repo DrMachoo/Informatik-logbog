@@ -98,3 +98,8 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 - https://phoenixnap.com/kb/how-to-create-mariadb-user-grant-privileges
 - Php for at ændre html koden
 ![image](https://github.com/DrMachoo/Informatik-logbog/blob/main/Images/Php%20fra%20serveren.png)
+
+
+-microbit og maqueen robot
+-epic kode der er dumt
+![image](Skærmbillede 2021-11-04 134029.png)
