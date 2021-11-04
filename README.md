@@ -103,4 +103,7 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 
 -microbit og maqueen robot
 -epic kode der er dumt
-![image]()
+-Ultralydssensor der bliver brugt til at vise afstand
+-2 lys sensorere der kigger ned på jorden
+- Gyroskob og accelerometer
+![image](https://github.com/DrMachoo/Informatik-logbog/blob/main/Images/Sk%C3%A6rmbillede%202021-11-04%20134029.png)
