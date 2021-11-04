@@ -99,6 +99,20 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 - Php for at ændre html koden
 ![image](https://github.com/DrMachoo/Informatik-logbog/blob/main/Images/Php%20fra%20serveren.png)
 
+- liste over linus kommandoer
+
+| WSL kommandoer | funktionalitet                                                     |
+|----------------|--------------------------------------------------------------------|
+| cd             | kan bruges til at navigere mellem mapper                           |
+| Sudo           | kan bruges til at få admin adgang                                  |
+| Nano           | bruges til at åbne filer                                           |
+| Rm             | fjern filer                                                        |
+| ls             | se filer (ls -a for at se gemte filer)                             |
+| ssh            | ved hjælp af public og private key kan man lave en sikker password |
+| pwd            | printer det direktory du er i                                      |
+| echo           | laver nye filer                                                    |
+| scp            | flyt filer sikkert                                                 |
+
 ## Robot og microbit
 
 - microbit og maqueen robot
