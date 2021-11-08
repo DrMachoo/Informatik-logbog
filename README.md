@@ -121,3 +121,10 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 - 2 lys sensorere der kigger ned på jorden
 - Gyroskob og accelerometer
 ![image](https://github.com/DrMachoo/Informatik-logbog/blob/main/Images/Sk%C3%A6rmbillede%202021-11-04%20134029.png)
+
+| Accelerometer  | En sensor der kan måle acceleration og den sensor som bliver brugt til at bestemme farten for robotten |
+|----------------|--------------------------------------------------------------------------------------------------------|
+| Gyroskop       | En sensor der kan checke om robotten bliver rystet eller om den vender en bestemt vej                  |
+| Ultralydsensor | Sensor der checker distancen foran robotten ved at sende ultralyd ud og måle tiden det tager           |
+| Lyssensor      | Lyscensor der sidder under robotten og ser om det robotten kører over er mørkt eller lyst              |
+| Kompas         | Et kompas der sidder i robotten (virker dog ikke så godt da den sidder ved 2 batterier)                |
