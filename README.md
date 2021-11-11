@@ -131,3 +131,4 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 | Mikrofon             | En mikrofon der kan spille lyd...                                                                      |
 | Lys til lyssensor xD | 2 sensorere der viser om en af lyssensorene er tændt, da de sidder under og er svære at aflæse         |
 | Accelerometer        | En sensor der kan måle acceleration og den sensor som bliver brugt til at bestemme farten for robotten |
+| Radio                | Radio der kan modtage og sende signaler, ved at bruge 2 microbit kan man sende signaler via. radien fra den ene til den anden |
