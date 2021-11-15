@@ -135,8 +135,9 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 
 
 
-- En robot sammensat af en robot af maqueen, og en microbit der kan programmeres via. blokprogrammering, java og python
-### fejlkilder idk
+- En robot sammensat af en robot af maqueen med motore der kører via. 3 batterier med en masse sensorere på(se afsnit overpå), og en microbit der kan programmeres via. blokprogrammering, java og python
+- 
+#### fejlkilder idk
 - Hjulene er ikke kalibreret 
 - Når man arbejder med elektronik er der altid en form for delay da det er umuligt for elektronik at multitaske
 - 
