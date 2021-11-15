@@ -130,8 +130,16 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 | Kompas               | Et kompas der sidder i robotten (virker dog ikke så godt da den sidder ved 2 batterier)                |
 | Mikrofon/højtaler    | En højtaler der kan spille lyd og mikrofon der kan optage lyd                                          |
 | Lys til lyssensor xD | 2 sensorere der viser om en af lyssensorene er tændt, da de sidder under og er svære at aflæse         |
-| Accelerometer        | En sensor der kan måle acceleration og den sensor som bliver brugt til at bestemme farten for robotten |
+| Accelerometer/magnetometer        | En sensor der kan måle acceleration og den sensor som bliver brugt til at bestemme farten for robotten |
 | Radio                | Radio der kan modtage og sende signaler, ved at bruge 2 microbit kan man sende signaler via. radien fra den ene til den anden |
+
+
+###### Ultralydssensor
+måler distance ved at sende lyd ud.
+D = V * T
+Ved at vide hastigheden for lyd og ved at måle hvor lang tid det tager for lyden at komme tilbage kan man regne distancen.
+
+####
 
 
 
