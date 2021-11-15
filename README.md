@@ -132,7 +132,7 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 | Radio                | Radio der kan modtage og sende signaler, ved at bruge 2 microbit kan man sende signaler via. radien fra den ene til den anden |
 
 
-###### Ultralydssensor
+##### Ultralydssensor
 måler distance ved at sende lyd ud.
 D = V * T
 Ved at vide hastigheden for lyd og ved at måle hvor lang tid det tager for lyden at komme tilbage kan man regne distancen.
