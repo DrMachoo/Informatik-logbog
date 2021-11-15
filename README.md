@@ -117,9 +117,7 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 
 - microbit og maqueen robot
 - epic kode der er dumt
-- Ultralydssensor der bliver brugt til at vise afstand
-- 2 lys sensorere der kigger ned på jorden
-- Gyroskob og accelerometer
+
 ![image](https://github.com/DrMachoo/Informatik-logbog/blob/main/Images/Sk%C3%A6rmbillede%202021-11-04%20134029.png)
 
 | Sensor/outputs       | Funktionalitet/output                                                                                         |
@@ -139,8 +137,8 @@ måler distance ved at sende lyd ud.
 D = V * T
 Ved at vide hastigheden for lyd og ved at måle hvor lang tid det tager for lyden at komme tilbage kan man regne distancen.
 
-####
-
+#### Latch
+I motoren er der en latch der virker med en 1-bit memory(2 NOR gates) der gemmer kommando fra microbit’en og vil derfor virke hvis man fjerne microbit’en fra robotten.
 
 
 - En robot sammensat af en robot af maqueen med motore der kører via. 3 batterier med en masse sensorere på(se afsnit overpå), og en microbit der kan programmeres via. blokprogrammering, java og python
@@ -148,5 +146,11 @@ Ved at vide hastigheden for lyd og ved at måle hvor lang tid det tager for lyde
 #### fejlkilder idk
 - Hjulene er ikke kalibreret 
 - Når man arbejder med elektronik er der altid en form for delay da det er umuligt for elektronik at multitaske
-- 
+
+
+
+#### Radio
+Radio transmit fra microbit til robotten
+Disse beskeder bliver sat i en kø og derefter udført af microbit’en der sidder i robotten. Køen’s størrelse bliver bestemt af RAM og hvis der ikke er flere RAM tilbage bliver beskederne ikke tilført til køen. I V1 microbit er der 16 KB RAM og i V2 er der 125 KB RAM.
+Radio’en virker ved at begge microbit’er bruger en kanal (0-83) og kan kun sende/modtage beskeder på den kanal. 
 
