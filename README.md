@@ -122,13 +122,14 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 - Gyroskob og accelerometer
 ![image](https://github.com/DrMachoo/Informatik-logbog/blob/main/Images/Sk%C3%A6rmbillede%202021-11-04%20134029.png)
 
-| Sensor/ting robboten kan               | Funktionalitet                                                                                         |
+| Sensor/outputs       | Funktionalitet/output                                                                                         |
 |----------------------|--------------------------------------------------------------------------------------------------------|
 | Gyroskop             | En sensor der kan checke om robotten bliver rystet eller om den vender en bestemt vej                  |
 | Ultralydsensor       | Sensor der checker distancen foran robotten ved at sende ultralyd ud og måle tiden det tager           |
 | Lyssensor            | Lyscensor der sidder under robotten og ser om det robotten kører over er mørkt eller lyst              |
 | Kompas               | Et kompas der sidder i robotten (virker dog ikke så godt da den sidder ved 2 batterier)                |
-| Mikrofon             | En mikrofon der kan spille lyd...                                                                      |
+| Mikrofon/højtaler    | En højtaler der kan spille lyd og mikrofon der kan optage lyd                                          |
 | Lys til lyssensor xD | 2 sensorere der viser om en af lyssensorene er tændt, da de sidder under og er svære at aflæse         |
 | Accelerometer        | En sensor der kan måle acceleration og den sensor som bliver brugt til at bestemme farten for robotten |
 | Radio                | Radio der kan modtage og sende signaler, ved at bruge 2 microbit kan man sende signaler via. radien fra den ene til den anden |
+
