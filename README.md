@@ -133,3 +133,11 @@ Der er også programmer som lastpass, som laver og gemmer passwords så at de er
 | Accelerometer        | En sensor der kan måle acceleration og den sensor som bliver brugt til at bestemme farten for robotten |
 | Radio                | Radio der kan modtage og sende signaler, ved at bruge 2 microbit kan man sende signaler via. radien fra den ene til den anden |
 
+
+
+- En robot sammensat af en robot af maqueen, og en microbit der kan programmeres via. blokprogrammering, java og python
+### fejlkilder idk
+- Hjulene er ikke kalibreret 
+- Når man arbejder med elektronik er der altid en form for delay da det er umuligt for elektronik at multitaske
+- 
+
