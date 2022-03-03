@@ -166,12 +166,14 @@ Radio’en virker ved at begge microbit’er bruger en kanal (0-83) og kan kun s
 
 Prøv at få root access ig et user/root flag i en vvirtuel maskine
 
-sudo nmap -sC -sT "ip_addessen" 
+sudo nmap -A "ip_addessen" 
 for at få alle de porte som bliver brugt atm
 ![nmap](Images/nmap.png)
+
 gobuster dir -u http://10.10.177.208 -w /usr/share/wordlists/dirb/common.txt
 For at se alle de directories der er på webserveren
 ![gobuser](Images/gobuster.png)
+
 Her kan vi så se at der er en uploads og en panel directory hvor vi kan uploade ting
 ![panel](Images/panelupload.png)
 
