@@ -160,3 +160,21 @@ Radio’en virker ved at begge microbit’er bruger en kanal (0-83) og kan kun s
 - En robot sammensat af en robot af maqueen med motore der kører via. 3 batterier med en masse sensorere på(se afsnit overpå), og en microbit der kan programmeres via. blokprogrammering, java og python
 - 
 
+
+##cybersecurity
+####epic hacker mode initialised ctf tryhackme
+
+Prøv at få root access ig et user/root flag i en vvirtuel maskine
+
+sudo nmap -sC -sT "ip_addessen" 
+for at få alle de porte som bliver brugt atm
+![nmap](Images/nmap.png)
+gobuster dir -u http://10.10.177.208 -w /usr/share/wordlists/dirb/common.txt
+For at se alle de directories der er på webserveren
+![gobuser](Images/gobuster.png)
+Her kan vi så se at der er en uploads og en panel directory hvor vi kan uploade ting
+![panel](Images/panelupload.png)
+
+Dette kan vi bruge til at uploade en reverse shell der får computeren til at connecte til min istedet for at skulle gøre det omvendt
+
+
