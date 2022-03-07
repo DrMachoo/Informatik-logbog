@@ -161,8 +161,8 @@ Radio’en virker ved at begge microbit’er bruger en kanal (0-83) og kan kun s
 - 
 
 
-##cybersecurity
-####epic hacker mode initialised ctf tryhackme
+## cybersecurity
+#### epic hacker mode initialised ctf tryhackme
 
 Prøv at få root access ig et user/root flag i en vvirtuel maskine
 
@@ -182,7 +182,7 @@ Dette kan vi bruge til at uploade en reverse shell der får computeren til at co
 
 
 
-#######opgavertilcybermesterskab
+####### opgavertilcybermesterskab
 jakobs hus, more like find the password do the root very easily
 
 
@@ -195,13 +195,13 @@ jakobs hus, more like find the password do the root very easily
   * rat --> remote access trojan --> et program som får adminstrateradgang som ikke er helt sikkert
   * botnet --> en bot(en comptuter du har control over) som bliver brugt til maskinkræft til at brute force noget. 
 
-#####hattefarver
+##### hattefarver
   * Sort hat --> bad and hack stuff and blackmail
   * Grå hat --> good but kinda skethcy
   * Hvid hat --> good and use for safety
 
 
-####linus
+#### linus
   * kali linus
   * ubunto
   * alma linus
