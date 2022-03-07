@@ -180,3 +180,10 @@ Her kan vi så se at der er en uploads og en panel directory hvor vi kan uploade
 Dette kan vi bruge til at uploade en reverse shell der får computeren til at connecte til min istedet for at skulle gøre det omvendt
 
 
+
+
+#######opgavertilcybermesterskab
+jakobs hus, more like find the password do the root very easily
+
+
+
