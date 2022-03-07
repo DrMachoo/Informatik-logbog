@@ -186,4 +186,24 @@ Dette kan vi bruge til at uploade en reverse shell der får computeren til at co
 jakobs hus, more like find the password do the root very easily
 
 
+  * infosec --> information security ---> hvad information er tilgængeligt, hvordan skal det bruges og hvordn kan vi opbevare det sikkert
+  * opsec --> operational secutiry
+  * Ctf --> find et "user flag" i et system/hack dig ind i systemet og få adgang til disse filer
+  * Enumeration --> find hvilke "numre" systemet har --> porte og ip-adresse --> tools: nmap, dirb, gobuster, shodan, exploit db, 
+  * privilege escalation --> hæve priviledge på et system -->   --> gtfobins
+  * writeup --> en logbog af hvordan man har båret sig af med at "hacke" noget
+  * rat --> remote access trojan --> et program som får adminstrateradgang som ikke er helt sikkert
+  * botnet --> en bot(en comptuter du har control over) som bliver brugt til maskinkræft til at brute force noget. 
 
+#####hattefarver
+  * Sort hat --> bad and hack stuff and blackmail
+  * Grå hat --> good but kinda skethcy
+  * Hvid hat --> good and use for safety
+
+
+####linus
+  * kali linus
+  * ubunto
+  * alma linus
+  * git bash(bad)
+  * 
