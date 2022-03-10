@@ -206,4 +206,12 @@ jakobs hus, more like find the password do the root very easily
   * ubunto
   * alma linus
   * git bash(bad)
-  * 
+
+
+### HacktheBxo
+
+## FTP
+* Ftp er file transer så ved at logge ind med "anonymous" kan du tranfer filer fra systemet til din egen pc
+
+## SMB
+* SMB er ligesom ftp en filetranser (fra microsoft) og med "smbclient" kan du tale med det
