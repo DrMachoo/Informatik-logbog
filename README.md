@@ -215,3 +215,20 @@ jakobs hus, more like find the password do the root very easily
 
 ## SMB
 * SMB er ligesom ftp en filetranser (fra microsoft) og med "smbclient" kan du tale med det
+
+
+Opgaverne er udarbejdet i et samarbejde mellem David og Jacob
+Crocodile WriteUp:
+Vi starter med at have fået givet en Ip.
+Her starter vi så med at nmap denne ip for at se hvilke porte der er på den.
+Her får vi en HTTP som siger at den her en hjemmeside, derudover får vi også en FTP, som man kan bruge til at overføre filer.
+Nu prøver at logge på FTP som anonym for hente de filer der ligger på serveren, herfra kan vi gå ind og se bruger samt adgangskoder
+Så brugte vi goburster til at lede efter en php fil, hvor vi så fandt login, så kunne vi åbne hjemme/login, da vi tidligere bruge FTP til at finde users og passwords kunne vi logge ind som og der lå flaget.
+
+
+Appointment WriteUp:
+Vi med at nmap ip for at finde eventuelle porte(http så der er en hjemmeside), herefter brugte vi goburster til at finde adresserne på hjemmesiden, her var der en login side, og efter at have prøvet at brute force den med nogle mest brugte usernames og passwd prøvede vi at lave SQL injection
+
+
+
+Her kan der ses at vi kan bi pass adgangskoden hvis vi bruger “ ‘# “, det kan du også se i php koden hvor at username stopper med et ‘ og da vi så bruger et “#” bliver den næste del af koden(altså password delen) ligegyldigt da det bliver til en kommentar.
