@@ -277,8 +277,10 @@ Her kan der ses at vi kan bi pass adgangskoden hvis vi bruger “ ‘# “, det 
   
 ### Enumeration 
 Enumeration er udvindingen af data fra et system som senere kan bruges til at få adgang til systemet, dette kan fx. være gennem nmap, gobuster, dirb osv. hvor vi fx. får data omkring hvilke porte der er åbne, hvilket kan bruges til at få adgang til systemet
+Enumerations defination er at liste nogle ting, hvilket i cybersikkerhed oversættes til at man undersøger muligeder fejl i sikkerheden og skriver dem i en liste
+
 ### Foothold
-ET foothold, er noget man kan have når man fx. har fået adgang til et system, eller har redskaberne men ikke gør noget ved det. Definationen af det foothold er også "a secure position from which further progress may be made."
+ET foothold, er noget man kan have når man fx. har fået adgang til et system, eller har redskaberne men ikke gør noget ved det. Definationen af det foothold er også "a secure position from which further progress may be made." Det kan oogså gøres ved at få instaleret en backdoor som hackeren kun har adgang til og som er gemt i systemet.
 
 ### Escalation
-Escalation er når man exploiter, fejl, gamle versioner af programmer osv. for at få adgang til et system
+Escalation er når man exploiter, fejl, gamle versioner af programmer osv. for at få adgang til et system og få flere privilegier end der var ment. "privilege escalation" altså en forced eskalation af ens privilegier i et system
