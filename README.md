@@ -284,3 +284,14 @@ ET foothold, er noget man kan have når man fx. har fået adgang til et system, 
 
 ### Escalation
 Escalation er når man exploiter, fejl, gamle versioner af programmer osv. for at få adgang til et system og få flere privilegier end der var ment. "privilege escalation" altså en forced eskalation af ens privilegier i et system
+
+
+
+# More Drone but this time, its aggresive af and attacks people
+Ansigstgenkendelse genneN opencv2 cascadeS
+
+- Cascade er en mange trins proccesing model der bruges til genkendelse af features, og til sidst kan give et gæt på om det er f.eks. et ansigt.
+
+## Threading
+For at få dronen til at både optage/calculate matematikken til asigtgenekendelse og for at flyvev, skal det gøres på flere threads
+
