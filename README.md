@@ -299,3 +299,7 @@ https://docs.google.com/document/d/1alEGACIcDYPjeVxL-pGo6v10ofqC8zreBaNR_n9iSqk/
 ## Threading
 For at få dronen til at både optage/calculate matematikken til asigtgenekendelse og for at flyvev, skal det gøres på flere threads
 
+
+# Lidt om gates
+
+
