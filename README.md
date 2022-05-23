@@ -289,6 +289,7 @@ Escalation er når man exploiter, fejl, gamle versioner af programmer osv. for a
 # Kryptologi
 
 
+
 # More Drone but this time, its aggresive af and attacks people
 Ansigstgenkendelse genneN opencv2 cascadeS
 
