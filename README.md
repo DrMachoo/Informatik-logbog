@@ -298,8 +298,19 @@ https://docs.google.com/document/d/1alEGACIcDYPjeVxL-pGo6v10ofqC8zreBaNR_n9iSqk/
 
 ## Threading
 For at få dronen til at både optage/calculate matematikken til asigtgenekendelse og for at flyvev, skal det gøres på flere threads
-
+Instruktioner kan udføres parallelt på en tråd sammen med andre tråde og kan derfor bruges til at få flere instruktioner til at køre på samme tid.
 
 # Lidt om gates
+
+ - Gates bliver brugt sammen med transsistore og laver computere ez :)
+ - Ved hjælp af and,nand,or,nor, xor, xnor gates osv. er byggestenene til alle computere 
+AND-gate truth table
+
+| A                    | B | Output                                                                                                 |
+|----------------------|---|--------------------------------------------------------------------------------------------------------|
+| 0                    | 1 | 0                                                                                                      |
+| 0                    | 0 | 1                                                                                                      |
+| 1                    | 0 | 0                                                                                                      |
+| 1                    | 1 | 1                                                                                                      |
 
 
