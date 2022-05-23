@@ -294,6 +294,8 @@ Ansigstgenkendelse genneN opencv2 cascadeS
 
 - Cascade er en mange trins proccesing model der bruges til genkendelse af features, og til sidst kan give et gæt på om det er f.eks. et ansigt.
 
+https://docs.google.com/document/d/1alEGACIcDYPjeVxL-pGo6v10ofqC8zreBaNR_n9iSqk/edit?usp=sharing
+
 ## Threading
 For at få dronen til at både optage/calculate matematikken til asigtgenekendelse og for at flyvev, skal det gøres på flere threads
 
