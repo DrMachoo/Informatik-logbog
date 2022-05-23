@@ -286,7 +286,10 @@ ET foothold, er noget man kan have når man fx. har fået adgang til et system, 
 Escalation er når man exploiter, fejl, gamle versioner af programmer osv. for at få adgang til et system og få flere privilegier end der var ment. "privilege escalation" altså en forced eskalation af ens privilegier i et system
 
 
-# Kryptologi
+# Kryptografi
+
+- Symmetrisk, hvor både afsender og modtager har den samme nøgle
+- RSA, med public og private key (se WSL ting)
 
 
 
