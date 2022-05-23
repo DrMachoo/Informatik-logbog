@@ -318,3 +318,12 @@ AND-gate truth table
 | 1                    | 1 | 1                                                                                                      |
 
 
+
+
+# Lidt om scrum og databehandling (alt dette med links til er vigtige ting som ikke er blevet skrevet i logbogen fordi det står på docs dokumentet)
+
+- alt står på linket https://docs.google.com/document/d/17K2hM5vN0OEnSBm4z-yv_xUuqbt9LnmqlqypsJImTFA/edit?usp=sharing
+
+# datavisualisering efterstudietur (det er også derfor det får sin plads til sidst i logbogen)
+
+- Alt står på linket https://docs.google.com/document/d/1JBQcwcKUvrGUd3n1gBRlJ_-ExIs5wQzEGT_EjGLz_BU/edit?usp=sharing
